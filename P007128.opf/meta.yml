@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD137843
   title: བོད་རྒྱ་སྐར་རྩིས་རིག་པའི་ཚིག་མཛོད།
-  volume: ''
+  volume:
+    ef5b5756043a4d9097d253c9f378ff94:
+      image_group_id: I2PD19674
+      title: Volume 1 of bod rgya skar rtsis rig pa'i tshig mdzod/
+      volume_number: 1
+      total_pages: 256
   author: ''
+ebook_metadata:
+  title: བོད་རྒྱ་སྐར་རྩིས་རིག་པའི་ཚིག་མཛོད།
+  author: ''
+  sku: P007128
+  cover: cover.jpg
+  layers:
+  - pagination
